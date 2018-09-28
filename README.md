@@ -10,4 +10,4 @@ Page Features
 1. Registation Form : HTML
 2. Confirm page : Servlet
 
-[!Capture]("./capture.JPG")
+![image](./capture.JPG)
