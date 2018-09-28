@@ -1,2 +1,5 @@
 # JavaEE-Servlet
-The first practice for Java servlet 
+
+Java Dynamic Web Project + Servlet, MySQL, HTML, CSS
+
+
