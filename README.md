@@ -11,4 +11,4 @@ Page Features
 2. Confirm page : Servlet
 
 ![image](./capture.JPG )
-<img src="https://github.com/JieunKwon/JavaEE-Servlet/bolb/master/capture.JPG" width="100">
+<img src="https://github.com/JieunKwon/JavaEE-Servlet/blob/master/capture.JPG" width="100">
