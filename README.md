@@ -10,4 +10,4 @@ Page Features
 1. Registation Form : HTML
 2. Confirm page : Servlet
 
-<img src="https://github.com/JieunKwon/JavaEE-Servlet/blob/master/capture.JPG" width="150px">
+<img src="https://github.com/JieunKwon/JavaEE-Servlet/blob/master/capture.JPG" width="300px">
